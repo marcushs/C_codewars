@@ -14,5 +14,6 @@ char *reverse_words (const char *words, size_t length, char *reversed);
 ### **Level: 8kyu**  
 ### **Tags:** `strings` `algorithms`  
 ### **Result:**  
-![Result](result.png)
+<img src="result.png" alt="score" style="width: 400px;">  
+
 #### Date: 11/01/2023  
