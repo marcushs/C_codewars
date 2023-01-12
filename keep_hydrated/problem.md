@@ -17,12 +17,13 @@ time = 6.7---> litres = 3
 
 time = 11.8--> litres = 5
 ```  
-### **Language: C**  
 
 ### **Prototype:**  
 ```c
 int Liters(double time);
 ```  
+___  
+### **Language: C**  
 ### **Level: 8kyu**  
 ### **Tags:** `algorithms` `mathematics` `fundamentals`  
 ### **Result:**  
