@@ -8,11 +8,12 @@
 
 ### **Example: Input -> Output**  
 `"The greatest victory is that which requires no battle" --> "battle no requires which that is victory greatest The"`  
-### **Language: C** 
 ### **Prototype:**  
 ```c 
 char *reverse_words (const char *words, size_t length, char *reversed);
 ```  
+___  
+### **Language: C** 
 ### **Level: 8kyu**  
 ### **Tags:** `strings` `algorithms`  
 ### **Result:**  
