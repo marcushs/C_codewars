@@ -1,6 +1,6 @@
 # Kata: Keep Hydrated!  
 #### [Link to kata](https://www.codewars.com/kata/582cb0224e56e068d800003c)  
-## Question  
+## Question:  
 
 ### Nathan loves cycling.  
 
